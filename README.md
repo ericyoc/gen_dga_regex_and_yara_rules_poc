@@ -25,7 +25,7 @@ The generated regular expressions and Yara rules can be integrated into security
 
 ## DGA Types
 
-The program covers the following DGA types:
+The program covers the following DGA types [DGA Results](https://github.com/ericyoc/gen_dga_regex_and_yara_rules/tree/main/dga_results):
 
 1. **Zodiac-based DGA**: Generates domains based on zodiac signs and random strings.
 2. **Time-based DGA**: Generates domains based on the current time.
