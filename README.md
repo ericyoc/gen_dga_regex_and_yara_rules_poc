@@ -1,8 +1,11 @@
 # Domain Generation Algorithm (DGA) Detection and Analysis
 
-## Introduction
-
 Domain Generation Algorithms (DGAs) are a technique used by malware authors to generate a large number of domain names programmatically. These generated domains are used for command and control (C&C) communication, data exfiltration, or other malicious purposes. DGAs make it difficult for security researchers and law enforcement to track and take down malicious domains, as the domains are constantly changing and can be generated on the fly.
+
+## Motivating Article
+Rizi, A., Yocam, E., vaidyan, V., & wang, Y. (2024, February 13). Robust Defense against LRS Obfuscated DGAsthrough Domain-Specific Noise and Deep LearningAnalysis. https://doi.org/10.21203/rs.3.rs-3918608/v1
+
+## Overview
 
 This Python code demonstrates various types of DGAs, generates sample domains using each DGA type, and provides explanations, strengths, weaknesses, and deception methods for each DGA. It also includes functionality to create regular expressions and Yara rules for detecting DGA-generated domains.
 
