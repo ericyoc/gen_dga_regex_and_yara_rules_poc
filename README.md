@@ -5,6 +5,8 @@ Domain Generation Algorithms (DGAs) are a technique used by malware authors to g
 ## Motivating Article and Related Work
 Rizi, A., Yocam, E., Vaidyan, V., & Wang, Y. (2024, February 13). Robust Defense against LRS Obfuscated DGAs through Domain-Specific Noise and Deep Learning Analysis. https://doi.org/10.21203/rs.3.rs-3918608/v1
 
+Any.Run https://any.run/malware-trends/
+
 URLhaus https://urlhaus.abuse.ch/statistics
 
 ## Overview
