@@ -107,3 +107,7 @@ DGAs pose a significant challenge for malware detection and prevention. By under
 This DGA analysis provides a comprehensive overview of various DGA types, their explanations, strengths, weaknesses, and deception methods. It also demonstrates the generation of regular expressions and Yara rules for detecting DGA-generated domains.
 
 By leveraging the knowledge gained from this analysis, security teams can enhance their detection capabilities, improve their incident response procedures, and strengthen their overall security posture against DGA-based attacks.
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+
