@@ -20,6 +20,8 @@ Intezer Analyze https://analyze.intezer.com/scan
 ## Tools
 https://blog.didierstevens.com/programs/yara-rules/
 
+https://github.com/certtools/intelmq-feeds-documentation/blob/master/DGArchive/Malware.md
+
 ## Overview
 
 This Python code demonstrates various types of DGAs, generates sample domains using each DGA type, and provides explanations, strengths, weaknesses, and deception methods for each DGA. It also includes functionality to create regular expressions and Yara rules for detecting DGA-generated domains.
