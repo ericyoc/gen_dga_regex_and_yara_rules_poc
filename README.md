@@ -28,6 +28,11 @@ https://github.com/360netlab
 
 https://malpedia.caad.fkie.fraunhofer.de/library
 
+## People
+
+https://twitter.com/viql
+
+https://twitter.com/push_pnx?lang=en
 
 
 ## Overview
