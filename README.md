@@ -21,6 +21,9 @@ URLhaus https://urlhaus.abuse.ch/statistics
 Intezer Analyze https://analyze.intezer.com/scan
 
 ## Tools
+
+https://www.cybereason.com/blog/what-are-domain-generation-algorithms-dga
+
 https://blog.didierstevens.com/programs/yara-rules/
 
 https://github.com/certtools/intelmq-feeds-documentation/blob/master/DGArchive/Malware.md
