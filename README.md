@@ -22,6 +22,8 @@ Intezer Analyze https://analyze.intezer.com/scan
 
 ## Tools
 
+https://github.com/PeterDaveHello/top-1m-domains
+
 https://github.com/baderj/domain_generation_algorithms
 
 https://www.cybereason.com/blog/what-are-domain-generation-algorithms-dga
