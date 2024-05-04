@@ -21,6 +21,7 @@ URLhaus https://urlhaus.abuse.ch/statistics
 Intezer Analyze https://analyze.intezer.com/scan
 
 ## Tools
+https://urlhaus.abuse.ch/browse/
 
 https://github.com/PeterDaveHello/top-1m-domains
 
