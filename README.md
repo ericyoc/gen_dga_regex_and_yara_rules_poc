@@ -23,6 +23,8 @@ Intezer Analyze https://analyze.intezer.com/scan
 ## Tools
 https://urlhaus.abuse.ch/browse/
 
+https://radar.cloudflare.com/domains
+
 https://github.com/PeterDaveHello/top-1m-domains
 
 https://github.com/baderj/domain_generation_algorithms
