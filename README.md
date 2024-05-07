@@ -21,6 +21,8 @@ URLhaus https://urlhaus.abuse.ch/statistics
 Intezer Analyze https://analyze.intezer.com/scan
 
 ## Tools
+https://github.com/Yara-Rules/rules
+
 https://urlhaus.abuse.ch/browse/
 
 https://radar.cloudflare.com/domains
